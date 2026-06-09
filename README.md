@@ -107,11 +107,10 @@ The chatbot is integrated with Kommunicate to provide:
 ## Screenshots
 
 ### Kommunicate Dashboard
-![Kommunicate Dashboard](screenshots/kommunicate-dashboard.png)
+<img src="./kommunicate-dashboard.png" alt="Kommunicate Dashboard" width="1000"/>
 
 ### FinBot Chat Interface
-![FinBot Chat Interface](screenshots/finbot-chat-interface.png)
-
+<img src="./finbot-chat-interface.png" alt="FinBot Chat Interface" width="400"/>
 ---
 
 ## Future Enhancements
