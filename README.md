@@ -27,6 +27,8 @@ The project demonstrates how conversational AI can automate customer support in 
 * Banking and loan assistance support
 
 ---
+## Live Demo
+https://www.kommunicate.io/livechat-demo?appId=1ef1ca98cbca4fa5674cb000d62bb3036&botIds=finbot-a95x0&assignee=finbot-a95x0
 
 ## Technologies Used
 
