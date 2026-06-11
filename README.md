@@ -106,6 +106,27 @@ The chatbot is integrated with Kommunicate to provide:
 
 ## Screenshots
 
+### Agent Creation
+<img src="./agent-creation.png" alt="Agent Creation" width="1000"/>
+
+### Intent List
+<img src="./dialogflow-intent.png" alt="Dialogflow Intent" width="1000"/>
+
+### NPV Intent Configuration
+<img src="./npv-intent.png" alt="NPV Intent Configuration" width="1000"/>
+
+### Chatbot Response Testing
+<img src="./response.png" alt="Chatbot Response Testing" width="1000"/>
+
+### Service Account Creation
+<img src="./service_account.png" alt="Service Account Creation" width="1000"/>
+
+### JSON Key Generation
+<img src="./json_key.png" alt="JSON Key Generation" width="1000"/>
+
+### Kommunicate Setup
+<img src="./kommunicate_Setup.png" alt="Kommunicate Setup" width="1000"/>
+
 ### Kommunicate Dashboard
 <img src="./kommunicate-dashboard.png" alt="Kommunicate Dashboard" width="1000"/>
 
